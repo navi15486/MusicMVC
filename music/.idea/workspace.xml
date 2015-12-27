@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68b42f95-3765-461d-9cfa-34ca44da9069" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/audio/02 Roku Keda - Kaur B (DJJOhAL.Com).mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/audio/50 Cent - I'm A Hustler - Power of the Dollar.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/audio/5571f70e8fd2202 Roku Keda - Kaur B (DJJOhAL.Com).mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/audio/5571f86b927cb02 Roku Keda - Kaur B (DJJOhAL.Com).mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/audio/5571f8b2a19b8Mr_Singh-Diljit-www.Mp3Mad.Com.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/audio/5571fb816254b02 Roku Keda - Kaur B (DJJOhAL.Com).mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/audio/55b15921d86b7Chakne_Nu_Tyar-Surjit_Khan[www.Mp3MaD.Com].mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/audio/55b257f927654Chakne_Nu_Tyar-Surjit_Khan[www.Mp3MaD.Com].mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/audio/AlbumArtSmall.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/audio/Folder.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/uploads/download.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/image/music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/images/pp_v_rgb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/invoice/images/sample.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/images/sample_console.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/images/sample_web.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/.coveralls.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/AddressTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Agreement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/AgreementDetails.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/AgreementStateDescriptor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/AgreementStateDescriptorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/AgreementTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/AgreementTransaction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/AgreementTransactionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/AgreementTransactions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/AgreementTransactionsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/AlternatePayment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/AlternatePaymentTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Amount.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/AmountTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Rest/ApiContext.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Rest/ApiContextTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/core/App.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Validation/ArgumentValidator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Validation/ArgumentValidatorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Common/ArrayClass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Common/ArrayUtil.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Common/ArrayUtilTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Authorization.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Cache/AuthorizationCache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Cache/AuthorizationCacheTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/AuthorizationCapture.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/AuthorizationCapture.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/AuthorizationTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/AuthorizePayment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/AuthorizePayment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/AuthorizePaymentUsingPayPal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/AuthorizePaymentUsingPayPal.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/BankAccount.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/BankAccountTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/BankAccountsList.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/BankAccountsListTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/BankToken.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/BankTokenTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/BaseAddress.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Billing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/BillingAgreementToken.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/Api/BillingAgreementsFunctionalTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/BillingInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/BillingInfoTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/Api/BillingPlansFunctionalTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/BillingTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/invoice/CancelInvoice.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/invoice/CancelInvoice.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/CancelNotification.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/CancelNotificationTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payouts/CancelPayoutItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payouts/CancelPayoutItem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Capture.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/CaptureTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/CarrierAccount.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/CarrierAccountTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/CarrierAccountToken.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/CarrierAccountTokenTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/CartBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/CartBaseTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/ChargeModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/ChargeModelTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Common/ChildClass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Security/Cipher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/composer/ClassLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Constants.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/core/Controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Cost.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/CostTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/CountryCode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/CountryCodeTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/vault/CreateBankAccount.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/vault/CreateBankAccount.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payouts/CreateBatchPayout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payouts/CreateBatchPayout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/billing/CreateBillingAgreementWithCreditCard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/billing/CreateBillingAgreementWithCreditCard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/billing/CreateBillingAgreementWithPayPal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/billing/CreateBillingAgreementWithPayPal.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/vault/CreateCreditCard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/vault/CreateCreditCard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/CreateFuturePayment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/CreateFuturePayment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/invoice/CreateInvoice.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/invoice/CreateInvoice.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/CreatePayment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/CreatePayment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/CreatePaymentUsingPayPal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/CreatePaymentUsingPayPal.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/CreatePaymentUsingSavedCard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/CreatePaymentUsingSavedCard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/billing/CreatePlan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/billing/CreatePlan.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/CreateProfileResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/CreateProfileResponseTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payouts/CreateSinglePayout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payouts/CreateSinglePayout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payment-experience/CreateWebProfile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payment-experience/CreateWebProfile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/notifications/CreateWebhook.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/notifications/CreateWebhook.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Credit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/CreditCard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/CreditCardHistory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/CreditCardHistoryTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/CreditCardList.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/CreditCardListTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/CreditCardTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/CreditCardToken.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/CreditCardTokenTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/CreditFinancingOffered.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/CreditFinancingOfferedTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/CreditTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Currency.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/CurrencyConversion.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/CurrencyConversionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/CurrencyTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/CustomAmount.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/CustomAmountTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/notifications/DeleteAllWebhooks.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/notifications/DeleteAllWebhooks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/vault/DeleteBankAccount.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/vault/DeleteBankAccount.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/vault/DeleteCreditCard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/vault/DeleteCreditCard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/invoice/DeleteInvoice.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/invoice/DeleteInvoice.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/billing/DeletePlan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/billing/DeletePlan.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payment-experience/DeleteWebProfile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payment-experience/DeleteWebProfile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/notifications/DeleteWebhook.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/notifications/DeleteWebhook.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Details.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/DetailsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/ErrorDetails.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/ErrorDetailsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/ErrorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/billing/ExecuteAgreement.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/billing/ExecuteAgreement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/ExecutePayment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/ExecutePayment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/ExtendedBankAccount.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/ExtendedBankAccountTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/ExternalFunding.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/ExternalFundingTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/FlowConfig.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/FlowConfigTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/FmfDetails.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/FmfDetailsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Converter/FormatConverter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Common/FormatConverterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/FundingDetail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/FundingDetailTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/FundingInstrument.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/FundingInstrumentTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/FundingOption.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/FundingOptionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/FundingSource.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/FundingSourceTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/FuturePayment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/lipp/GenerateAccessTokenFromRefreshToken.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/lipp/GenerateAccessTokenFromRefreshToken.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/GetAuthorization.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/GetAuthorization.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/vault/GetBankAccount.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/vault/GetBankAccount.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/billing/GetBillingAgreement.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/billing/GetBillingAgreement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/GetCapture.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/GetCapture.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/vault/GetCreditCard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/vault/GetCreditCard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/invoice/GetInvoice.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/invoice/GetInvoice.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/GetPayment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/GetPayment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payouts/GetPayoutBatchStatus.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payouts/GetPayoutBatchStatus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payouts/GetPayoutItemStatus.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payouts/GetPayoutItemStatus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/billing/GetPlan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/billing/GetPlan.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/sale/GetSale.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/sale/GetSale.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/lipp/GetUserInfo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/lipp/GetUserInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payment-experience/GetWebProfile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payment-experience/GetWebProfile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/notifications/GetWebhook.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/notifications/GetWebhook.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/HyperSchema.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/HyperSchemaTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Handler/IPayPalHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Rest/IResource.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/ImageTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Incentive.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/IncentiveTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/InputFields.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/InputFieldsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/InstallmentInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/InstallmentInfoTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/InstallmentOption.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/InstallmentOptionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Invoice.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/InvoiceAddress.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/InvoiceAddressTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/Api/InvoiceFunctionalTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/InvoiceItem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/InvoiceItemTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/InvoiceSearchResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/InvoiceSearchResponseTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/InvoiceTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Item.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/ItemList.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/ItemListTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/ItemTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Validation/JsonValidator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Validation/JsonValidatorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Links.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/LinksTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/vault/ListCreditCards.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/vault/ListCreditCards.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/invoice/ListInvoice.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/invoice/ListInvoice.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/ListPayments.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/ListPayments.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/billing/ListPlans.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/billing/ListPlans.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/notifications/ListSubscribedWebhookEventTypes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/notifications/ListSubscribedWebhookEventTypes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payment-experience/ListWebProfiles.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payment-experience/ListWebProfiles.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/notifications/ListWebhooks.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/notifications/ListWebhooks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Measurement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/MeasurementTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/MerchantInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/MerchantInfoTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/MerchantPreferences.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/MerchantPreferencesTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Metadata.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/MetadataTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Common/ModelTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/NameValuePair.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/NameValuePairTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Common/NestedClass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Notification.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/NotificationTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Validation/NumericValidator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Validation/NumericValidatorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Auth/OAuthTokenCredential.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Auth/OAuthTokenCredentialTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Handler/OauthHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Handler/OauthHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/lipp/ObtainUserConsent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/lipp/ObtainUserConsent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/OpenIdAddress.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/OpenIdAddressTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/OpenIdError.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/OpenIdErrorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/OpenIdSession.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/OpenIdSessionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/OpenIdTokeninfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/OpenIdTokeninfoTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/OpenIdUserinfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/OpenIdUserinfoTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/OrderAuthorize.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/OrderAuthorize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/OrderCapture.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/OrderCapture.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/OrderCreateForAuthorization.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/OrderCreateForAuthorization.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/OrderCreateForCapture.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/OrderCreateForCapture.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/OrderCreateForVoid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/OrderCreateForVoid.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/OrderCreateUsingPayPal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/OrderCreateUsingPayPal.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/OrderDoVoid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/OrderDoVoid.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/OrderGet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/OrderGet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/OrderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/OverrideChargeModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/OverrideChargeModelTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Core/PPConfigManagerTest.php.skipped" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payment-experience/PartiallyUpdateWebProfile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payment-experience/PartiallyUpdateWebProfile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Patch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/PatchRequest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PatchRequestTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PatchTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Core/PayPalConfigManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Exception/PayPalConfigurationException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Exception/PayPalConfigurationExceptionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Exception/PayPalConnectionException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Exception/PayPalConnectionExceptionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Core/PayPalConstants.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Core/PayPalCredentialManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Core/PayPalCredentialManagerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Core/PayPalHttpConfig.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Core/PayPalHttpConfigTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Core/PayPalHttpConnection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Exception/PayPalInvalidCredentialException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Exception/PayPalInvalidCredentialExceptionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Core/PayPalLoggingLevel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Core/PayPalLoggingManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Core/PayPalLoggingManagerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Exception/PayPalMissingCredentialException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Exception/PayPalMissingCredentialExceptionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Common/PayPalModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Common/PayPalModelTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Common/PayPalResourceModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Transport/PayPalRestCall.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Common/PayPalUserAgent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Payee.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PayeeTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Payer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/PayerInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PayerInfoTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PayerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/PaymentCard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PaymentCardTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/PaymentCardToken.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PaymentCardTokenTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/PaymentDefinition.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PaymentDefinitionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/PaymentDetail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PaymentDetailTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/PaymentExecution.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PaymentExecutionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/PaymentHistory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PaymentHistoryTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/PaymentInstruction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PaymentInstructionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/PaymentOptions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PaymentOptionsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/PaymentTerm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PaymentTermTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PaymentTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/Api/PaymentsFunctionalTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Payout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/PayoutBatch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/PayoutBatchHeader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PayoutBatchHeaderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PayoutBatchTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/PayoutItem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/PayoutItemDetails.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PayoutItemDetailsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PayoutItemTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/PayoutSenderBatchHeader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PayoutSenderBatchHeaderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PayoutTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/Api/PayoutsFunctionalTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Phone.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PhoneTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Plan.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/PlanList.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PlanListTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PlanTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/PotentialPayerInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PotentialPayerInfoTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Presentation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PresentationTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/PrivateLabelCard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/PrivateLabelCardTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/ProcessorResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/ProcessorResponseTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/billing/ReactivateBillingAgreement.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/billing/ReactivateBillingAgreement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/Reauthorization.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/Reauthorization.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/RecipientBankingInstruction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/RecipientBankingInstructionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/invoice/RecordPayment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/invoice/RecordPayment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/invoice/RecordRefund.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/invoice/RecordRefund.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/RedirectUrls.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/RedirectUrlsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Common/ReflectionUtil.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Refund.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/RefundCapture.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/RefundCapture.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/RefundDetail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/RefundDetailTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/sale/RefundSale.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/sale/RefundSale.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/RefundTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/RelatedResources.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/RelatedResourcesTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/invoice/RemindInvoice.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/invoice/RemindInvoice.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Handler/RestHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/invoice/RetrieveQRCode.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/invoice/RetrieveQRCode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Sale.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/SaleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/billing/SearchBillingTransactions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/billing/SearchBillingTransactions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/invoice/SearchInvoices.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/invoice/SearchInvoices.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/SearchTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/notifications/SearchWebhookEvents.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/notifications/SearchWebhookEvents.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/invoice/SendInvoice.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/invoice/SendInvoice.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/Setup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/ShippingAddress.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/ShippingAddressTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/ShippingCost.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/ShippingCostTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/ShippingInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/ShippingInfoTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Common/SimpleClass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/billing/SuspendBillingAgreement.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/billing/SuspendBillingAgreement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Tax.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/TaxTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Terms.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/TermsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Transaction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/TransactionBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/TransactionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Transactions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/billing/UpdateBillingAgreement.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/billing/UpdateBillingAgreement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/vault/UpdateCreditCard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/vault/UpdateCreditCard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/invoice/UpdateInvoice.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/invoice/UpdateInvoice.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/UpdatePayment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/UpdatePayment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/billing/UpdatePlan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/billing/UpdatePlan.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/billing/UpdatePlanPaymentDefinitions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/billing/UpdatePlanPaymentDefinitions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payment-experience/UpdateWebProfile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payment-experience/UpdateWebProfile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/notifications/UpdateWebhook.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/notifications/UpdateWebhook.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Validation/UrlValidator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Validation/UrlValidatorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Common/UserAgentTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/lipp/UserConsentRedirect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/lipp/UserConsentRedirect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/notifications/ValidateWebhookEvent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/notifications/ValidateWebhookEvent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/payments/VoidAuthorization.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/payments/VoidAuthorization.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/WebProfile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/Api/WebProfileFunctionalTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/WebProfileTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Webhook.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/WebhookEvent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/WebhookEventList.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/WebhookEventListTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/WebhookEventTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/WebhookEventType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/WebhookEventTypeList.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/WebhookEventTypeListTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/WebhookEventTypeTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/notifications/WebhookEventTypesList.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/notifications/WebhookEventTypesList.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/Api/WebhookFunctionalTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/WebhookList.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/WebhookListTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Api/WebhookTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/about.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/admin/addUser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/adminController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/includes/adminFooter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/includes/adminHeader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/allAudio.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/user/audio.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/audioController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/audioModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/composer/autoload_classmap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/composer/autoload_namespaces.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/composer/autoload_psr4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/composer/autoload_real.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/assets/behavior.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/lib/PayPal/Core/cacert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/cartModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/admin/cartsAllItems.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/common.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/user/payment/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/cookieModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/docs/cover.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/user/createProfile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/core/database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/user/dbImage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/user/event.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/eventController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/eventModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/admin/events.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/includes/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/generate-api.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/includes/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/admin/home.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/homeController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/imageModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/init.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/init.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/composer/installed.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/liveSearch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/loginController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/admin/logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/user/logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/orderLineModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/ordersModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/user/payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/phpunit.integration.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/phpunit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/popularSongs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/user/profile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/profileController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/includes/profileMenu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/profileModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/recoverPassword.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/registration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/registrationController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/release_notes.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/user/resetPassword.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/sdk_config.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/sdk_config.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/searchController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/sendComment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/user/shopping.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/shoppingController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/sample/doc/assets/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/success.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/BillingAgreementsFunctionalTest/testBillBalance.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/BillingAgreementsFunctionalTest/testCancel.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/InvoiceFunctionalTest/testCancel.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/PayoutsFunctionalTest/testCancel.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/BillingPlansFunctionalTest/testCreate.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/InvoiceFunctionalTest/testCreate.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/PaymentsFunctionalTest/testCreate.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/PayoutsFunctionalTest/testCreate.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/WebProfileFunctionalTest/testCreate.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/WebhookFunctionalTest/testCreate.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/BillingAgreementsFunctionalTest/testCreateCCAgreement.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/BillingAgreementsFunctionalTest/testCreatePayPalAgreement.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/PaymentsFunctionalTest/testCreateWallet.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/BillingPlansFunctionalTest/testCreateWithNOChargeModel.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/BillingAgreementsFunctionalTest/testCreateWithOverride.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/InvoiceFunctionalTest/testDelete.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/WebProfileFunctionalTest/testDelete.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/WebhookFunctionalTest/testDelete.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/WebhookFunctionalTest/testEventResend.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/WebhookFunctionalTest/testEventSearch.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/BillingAgreementsFunctionalTest/testExecute.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/PaymentsFunctionalTest/testExecute.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/BillingAgreementsFunctionalTest/testGet.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/BillingPlansFunctionalTest/testGet.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/InvoiceFunctionalTest/testGet.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/PaymentsFunctionalTest/testGet.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/PayoutsFunctionalTest/testGet.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/WebProfileFunctionalTest/testGet.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/WebhookFunctionalTest/testGet.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/InvoiceFunctionalTest/testGetAll.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/WebhookFunctionalTest/testGetAll.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/BillingAgreementsFunctionalTest/testGetCancelled.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/WebhookFunctionalTest/testGetEvent.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/PayoutsFunctionalTest/testGetItem.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/BillingPlansFunctionalTest/testGetList.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/WebProfileFunctionalTest/testGetList.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/PaymentsFunctionalTest/testGetPending.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/PaymentsFunctionalTest/testGetSale.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/WebhookFunctionalTest/testGetSubscribedEventTypes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/BillingAgreementsFunctionalTest/testGetSuspended.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/BillingAgreementsFunctionalTest/testGetTransactions.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/WebProfileFunctionalTest/testPartialUpdate.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/InvoiceFunctionalTest/testQRCode.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/BillingAgreementsFunctionalTest/testReactivate.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/InvoiceFunctionalTest/testRecordPayment.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/InvoiceFunctionalTest/testRecordRefund.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/PaymentsFunctionalTest/testRefundSale.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/InvoiceFunctionalTest/testRemind.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/InvoiceFunctionalTest/testSearch.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/InvoiceFunctionalTest/testSend.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/BillingAgreementsFunctionalTest/testSetBalance.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/BillingAgreementsFunctionalTest/testSuspend.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/BillingAgreementsFunctionalTest/testUpdate.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/InvoiceFunctionalTest/testUpdate.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/WebProfileFunctionalTest/testUpdate.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/WebhookFunctionalTest/testUpdate.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/BillingPlansFunctionalTest/testUpdateChangingMerchantPreferences.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/BillingPlansFunctionalTest/testUpdateChangingPD.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/BillingPlansFunctionalTest/testUpdateChangingState.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/user/unregister.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/user/updateProfile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/user/upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/user/uploadMusic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/userModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/vendor/paypal/rest-api-sdk-php/tests/PayPal/Test/Functional/resources/WebhookFunctionalTest/webhook_get_available_event_types.json" />
+    </list>
+    <ignored path="music.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="music" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="userModel.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/userModel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="4573">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <marker date="1444698704692" expanded="true" signature="500:555" placeholder="SELECT email..users..." />
+                <marker date="1444698704692" expanded="true" signature="888:936" placeholder="UPDATE users..." />
+                <marker date="1444698704692" expanded="true" signature="1136:1155" placeholder="SELECT * FRO..users..." />
+                <marker date="1444698704692" expanded="true" signature="1949:1989" placeholder="SELECT * FRO..users..." />
+                <marker date="1444698704692" expanded="true" signature="2330:2389" placeholder="SELECT * FRO..users..." />
+                <marker date="1444698704692" expanded="true" signature="3180:3297" placeholder="INSERT INTO ..." />
+                <marker date="1444698704692" expanded="true" signature="3620:3660" placeholder="SELECT * FRO..users..." />
+                <marker date="1444698704692" expanded="true" signature="5326:5393" placeholder="UPDATE users..." />
+                <marker date="1444698704692" expanded="true" signature="5655:5693" placeholder="DELETE FROM ..." />
+                <marker date="1444698704692" expanded="true" signature="6214:6358" placeholder="update users..." />
+                <marker date="1444698704692" expanded="true" signature="6618:6672" placeholder="UPDATE users..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/home/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="889" max-vertical-offset="1785">
+              <caret line="76" column="55" selection-start-line="76" selection-start-column="15" selection-end-line="76" selection-end-column="127" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/home/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="426" max-vertical-offset="1394">
+              <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/includes/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1207" max-vertical-offset="2669">
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="registration.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/home/registration.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.50176054" vertical-offset="1228" max-vertical-offset="3247">
+              <caret line="89" column="41" selection-start-line="89" selection-start-column="41" selection-end-line="89" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="registrationController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/registrationController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="42" max-vertical-offset="2346">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/views/home/contact.php" />
+        <option value="$PROJECT_DIR$/app/views/includes/header.php" />
+        <option value="$PROJECT_DIR$/app/views/home/login.php" />
+        <option value="$PROJECT_DIR$/app/views/home/registration.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hospital" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\music\public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="58e36b41-6400-4093-9ffc-96be11f84556" server_name="music">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-env-vars>false</pass-parent-env-vars>
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68b42f95-3765-461d-9cfa-34ca44da9069" name="Default" comment="" />
+      <created>1450716088430</created>
+      <option name="number" value="Default" />
+      <updated>1450716088430</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/models/userModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="4573">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1444698704692" expanded="true" signature="500:555" placeholder="SELECT email..users..." />
+            <marker date="1444698704692" expanded="true" signature="888:936" placeholder="UPDATE users..." />
+            <marker date="1444698704692" expanded="true" signature="1136:1155" placeholder="SELECT * FRO..users..." />
+            <marker date="1444698704692" expanded="true" signature="1949:1989" placeholder="SELECT * FRO..users..." />
+            <marker date="1444698704692" expanded="true" signature="2330:2389" placeholder="SELECT * FRO..users..." />
+            <marker date="1444698704692" expanded="true" signature="3180:3297" placeholder="INSERT INTO ..." />
+            <marker date="1444698704692" expanded="true" signature="3620:3660" placeholder="SELECT * FRO..users..." />
+            <marker date="1444698704692" expanded="true" signature="5326:5393" placeholder="UPDATE users..." />
+            <marker date="1444698704692" expanded="true" signature="5655:5693" placeholder="DELETE FROM ..." />
+            <marker date="1444698704692" expanded="true" signature="6214:6358" placeholder="update users..." />
+            <marker date="1444698704692" expanded="true" signature="6618:6672" placeholder="UPDATE users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="889" max-vertical-offset="1785">
+          <caret line="76" column="55" selection-start-line="76" selection-start-column="15" selection-end-line="76" selection-end-column="127" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="426" max-vertical-offset="1394">
+          <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1207" max-vertical-offset="2669">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3247">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/registrationController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="42" max-vertical-offset="2346">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/userModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="4573">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1444698704692" expanded="true" signature="500:555" placeholder="SELECT email..users..." />
+            <marker date="1444698704692" expanded="true" signature="888:936" placeholder="UPDATE users..." />
+            <marker date="1444698704692" expanded="true" signature="1136:1155" placeholder="SELECT * FRO..users..." />
+            <marker date="1444698704692" expanded="true" signature="1949:1989" placeholder="SELECT * FRO..users..." />
+            <marker date="1444698704692" expanded="true" signature="2330:2389" placeholder="SELECT * FRO..users..." />
+            <marker date="1444698704692" expanded="true" signature="3180:3297" placeholder="INSERT INTO ..." />
+            <marker date="1444698704692" expanded="true" signature="3620:3660" placeholder="SELECT * FRO..users..." />
+            <marker date="1444698704692" expanded="true" signature="5326:5393" placeholder="UPDATE users..." />
+            <marker date="1444698704692" expanded="true" signature="5655:5693" placeholder="DELETE FROM ..." />
+            <marker date="1444698704692" expanded="true" signature="6214:6358" placeholder="update users..." />
+            <marker date="1444698704692" expanded="true" signature="6618:6672" placeholder="UPDATE users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="430" max-vertical-offset="1156">
+          <caret line="37" column="46" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1394">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="2669">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="444" max-vertical-offset="1581">
+          <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/userModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="4573">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1444698704692" expanded="true" signature="500:555" placeholder="SELECT email..users..." />
+            <marker date="1444698704692" expanded="true" signature="888:936" placeholder="UPDATE users..." />
+            <marker date="1444698704692" expanded="true" signature="1136:1155" placeholder="SELECT * FRO..users..." />
+            <marker date="1444698704692" expanded="true" signature="1949:1989" placeholder="SELECT * FRO..users..." />
+            <marker date="1444698704692" expanded="true" signature="2330:2389" placeholder="SELECT * FRO..users..." />
+            <marker date="1444698704692" expanded="true" signature="3180:3297" placeholder="INSERT INTO ..." />
+            <marker date="1444698704692" expanded="true" signature="3620:3660" placeholder="SELECT * FRO..users..." />
+            <marker date="1444698704692" expanded="true" signature="5326:5393" placeholder="UPDATE users..." />
+            <marker date="1444698704692" expanded="true" signature="5655:5693" placeholder="DELETE FROM ..." />
+            <marker date="1444698704692" expanded="true" signature="6214:6358" placeholder="update users..." />
+            <marker date="1444698704692" expanded="true" signature="6618:6672" placeholder="UPDATE users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="426" max-vertical-offset="1394">
+          <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1207" max-vertical-offset="2669">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/registrationController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="42" max-vertical-offset="2346">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="889" max-vertical-offset="1785">
+          <caret line="76" column="55" selection-start-line="76" selection-start-column="15" selection-end-line="76" selection-end-column="127" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50176054" vertical-offset="1228" max-vertical-offset="3247">
+          <caret line="89" column="41" selection-start-line="89" selection-start-column="41" selection-end-line="89" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

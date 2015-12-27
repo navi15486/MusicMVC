@@ -22,19 +22,56 @@
     }
 
 ?>
-            </div>  
-		
+            </div>
+    <script>
+        function validation()
+        {
+            var validate = true;
+            var username = $("#username").val();
+            var password = $("#password").val();
+            if (username === "" || username == null)
+            {
+                $(document).ready(function () {
+                    $( "#usernameError" ).addClass( "has-error" );
+                });
+                document.getElementById("user-help-block").style.visibility = "visible";
+                validate = false;
+            }
+            else
+            {
+                $(document).ready(function () {
+                $( "#usernameError" ).removeClass( "has-error" )
+                });
+            }
+            if (password === "" || password == null)
+            {
+                $(document).ready(function () {
+                    $( "#passwordError" ).addClass( "has-error" );
+                });
+                document.getElementById("password-help-block").style.visibility = "visible";
 
-    <form  class="form-horizontal" onsubmit="return validation()" method="post" action = "">
+                validate =  false;
+                }
+                else
+                {
+                $(document).ready(function () {
+                    $( "#passwordError" ).removeClass( "has-error" )
+                });
+            }
+            return validate;
+        }
+    </script>
+
+    <form  id = "loginForm" class="form-horizontal" onsubmit="return validation()" method="post" action = "">
         <div class="form-group" >
-            <label class="col-sm-2 control-label " for="inputSuccess"  >Username</label>
+            <label class="col-sm-2 control-label " for="username"  >Username</label>
             <div class="col-sm-3" id = "usernameError">
                 <input type="text"   class="form-control" placeholder="Username" name = "username" id="username"  >
                 <span class="help-block" id = "user-help-block" style="visibility: hidden;">*Username Field is empty</span>
             </div>
         </div>
         <div class="form-group" >
-            <label class="col-sm-2 control-label" for="inputWarning"  >Password</label>
+            <label class="col-sm-2 control-label" for="password"  >Password</label>
             <div class="col-sm-3" id="passwordError">
                 <input type="password" id="password" class="form-control" name = "password" placeholder="Password">
                 <span class="help-block" id = "password-help-block" style="visibility: hidden;">*Password Field is empty</span>

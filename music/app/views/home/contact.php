@@ -20,30 +20,30 @@
     <form class="form-horizontal" method = "post" action="" >
        
         <div class="form-group" id="firstnameError">
-            <label class="col-sm-3 control-label" for="inputWarning"  >FirstName</label>
+            <label class="col-sm-3 control-label" for="firstname"  >FirstName</label>
             <div class="col-sm-3">
-                <input type="text" id="firstname" class="form-control" placeholder="name" name="name" required>
+                <input type="text" id="firstname" class="form-control" placeholder="name" name="name"  >
                 <span class="help-block" id = "firstname-help-block" style="visibility: hidden;">*Firstname Field is empty</span>
             </div>
         </div>
         <div class="form-group" id="lastnameError">
-            <label class="col-sm-3 control-label" for="inputWarning"  >LastName</label>
+            <label class="col-sm-3 control-label" for="lastname"  >LastName</label>
             <div class="col-sm-3">
-                <input type="text" id="lastname" class="form-control" name = "lastname" placeholder="Lastname" required>
+                <input type="text" id="lastname" class="form-control" name = "lastname" placeholder="Lastname"  >
                 <span class="help-block" id = "lastname-help-block" style="visibility: hidden;">*Lastname Field is empty</span>
             </div>
         </div>
         <div class="form-group" id="emailError">
-            <label class="col-sm-3 control-label" for="inputWarning"  >Email </label>
+            <label class="col-sm-3 control-label" for="email"  >Email </label>
             <div class="col-sm-3">
-                <input type="text" id="email" class="form-control" name = "email" placeholder="Email" required>
+                <input type="text" id="email" class="form-control" name = "email" placeholder="Email"  >
                 <span class="help-block" id = "password-help-block" style="visibility: hidden;">*Email Field is empty</span>
             </div>
         </div>
          <div class="form-group" id = "usernameError">
-            <label class="col-sm-3 control-label " for="inputSuccess"  >Username</label>
+            <label class="col-sm-3 control-label " for="username"  >Username</label>
             <div class="col-sm-3">
-                <input type="text"   class="form-control" placeholder="Username" id="username" name="username" required>
+                <input type="text"   class="form-control" placeholder="Username" id="username" name="username"  >
                 <span class="help-block" id = "user-help-block" style="visibility: hidden;">*Username Field is empty</span>
             </div>
         </div>

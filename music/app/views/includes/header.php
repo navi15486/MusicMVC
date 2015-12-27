@@ -32,6 +32,12 @@
 <title><?php echo $data['title'];?></title>
 </head>
 <body>
+<style type="text/css">
+	body {
+		color:black;
+		 background: grey !important;
+	}
+</style>
 <nav id="myNavbar" class="navbar navbar-default navbar-inverse navbar-fixed-top " role="navigation">
 <!-- Brand and toggle get grouped for better mobile display -->
 <div class="container">
