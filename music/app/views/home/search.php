@@ -9,7 +9,6 @@
 		{
 			$image = $this->model('imageModel');
 			$imageSrc = $image->getImageByProfile($profile->getProfileId());
-
 			echo "<img src = http://localhost/music/app/profileImages/" . $imageSrc . " width='30' height= '30'/> "; 
 			echo "<a href= http://localhost/music/public/search?profile=". $profile->getProfileId() ."  >"
 			 .'Name is ' . $profile->getName() . "</a><br>" ;

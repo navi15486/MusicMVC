@@ -71,8 +71,7 @@ class shoppingController extends Controller
 		if (isset($_POST['delete']))
 		{
 			$cart_id = $_POST['lineId'];
-			$cart->deleteCart($cart_id);
-			 
+			$cart->deleteCart($cart_id);	 
 		}
 
 		if (isset($_POST['update']))
